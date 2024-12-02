@@ -1,6 +1,5 @@
 name: TEMI-TECH CORNER
 'on': push
-  push:
     branches:
       - main
   pull_request: null
