@@ -28,7 +28,7 @@ jobs:
           aws-region: '${{ secrets.AWS_REGION }}'
       - name: Sync to S3
         run: |
-          aws s3 sync ./public s3://devops1122 --delete --acl public-read
+          aws s3 sync ./public s3://devops1122 --delete
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
