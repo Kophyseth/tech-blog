@@ -3,7 +3,7 @@ baseURL = "https://yourdomain.com"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "TEMI-TECH CORNER"
+title = "TEME-TECH CORNER"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -196,7 +196,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page (LINK_TO_YOUR_PHOTO_BELOW)
-      avatarURL = "https://devops1122.s3.eu-west-1.amazonaws.com/first+avatar.jpg"
+      avatarURL = "https://avatars.githubusercontent.com/u/133174811?u=571f14faa20d2953b7ca8346917fdd12634f3f91&v=4"
       #  title shown in home page (HTML format is supported)
       title = "TEMI-TECH CORNER"
       # subtitle shown in home page
